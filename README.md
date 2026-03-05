@@ -10,7 +10,7 @@ Ziwei Yang, Kaile Zhou, Yue Niu
 School of Management, Hefei University of Technology
 
 # Date of creation
-2025
+2026.03.05
 
 # Main components
 - Feature extraction from Sentinel-2 imagery
