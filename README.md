@@ -1,5 +1,5 @@
-# Spatial distribution and characteristic dataset of large-scale data centers in China
-This repository contains the complete workflow, scripts, and auxiliary data used to produce a spatial distribution and characteristic dataset of large-scale data centers in China.
+# Spatial distribution and environmental attributes dataset of large-scale data centers in China in 2024
+This repository contains the complete workflow, scripts, and auxiliary data used to produce a spatial distribution and environmental attributes dataset of large-scale data centers in China in 2024.
 The project integrates Google Earth Engine (GEE), Sentinel-2 imagery, machine-learning classification, and ERA5/SRTM environmental data extraction to identify and characterize data centers across China.
 
 # Language
