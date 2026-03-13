@@ -7,8 +7,8 @@ The project integrates Google Earth Engine (GEE), Sentinel-2 imagery, machine-le
 This repository contains the source code and data processing scripts for the study "Spatial Distribution and Environmental Attributes of Large-Scale Data Centers in China". The core functions include:
 1. Preprocessing of POI data;
 2. Calculation of environmental attributes for provincial data centers;
-3. Random Forest (RF) model training for data center probability surface generation.
-4. Train-on-all-provinces experiment
+3. Random Forest (RF) model training for data center probability surface generation;
+4. Train-on-all-provinces experiment.
 
    
 ## Language
