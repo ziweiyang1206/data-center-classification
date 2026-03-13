@@ -8,6 +8,7 @@ This repository contains the source code and data processing scripts for the stu
 1. Preprocessing of POI data;
 2. Calculation of environmental attributes for provincial data centers;
 3. Random Forest (RF) model training for data center probability surface generation.
+4. Train-on-all-provinces experiment
 
    
 ## Language
@@ -16,7 +17,7 @@ Python
 
 ## Author
 Ziwei Yang, Kaile Zhou, Yue Niu  
-School of Management, Hefei University of Technology, Hefei, China
+School of Management, Hefei University of Technology, Hefei, 230009, China
 
 
 ## Date of creation
